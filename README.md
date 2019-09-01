@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `Udemy` project.
 [x] 0. Introduction 01:20
 [x] 1. Creating a Rails app 04:22
 [x] 2. ActiveNode Properties 03:13
-[ ] 3. Associations 04:52
+[x] 3. Associations 04:52
 [ ] 4. Association Chaining 06:11
 [ ] 5. ActiveRel ActiveRel 05:23
 [ ] 6. Deeper Querying 06:10
